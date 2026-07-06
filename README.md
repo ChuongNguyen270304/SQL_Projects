@@ -44,6 +44,13 @@ This project focuses on preparing raw data for analysis by identifying and corre
 - Date Formatting
 - Data Quality Improvement
 
+<img width="892" height="182" alt="image" src="https://github.com/user-attachments/assets/d616320f-1ad8-4eee-8f93-496ae6fb68bd" />
+
+---
+
+<img width="906" height="177" alt="image" src="https://github.com/user-attachments/assets/b55ccd20-1b81-4724-8f9c-357ae9613ec8" />
+
+
 ---
 
 ## Project 2 – Exploratory Data Analysis
