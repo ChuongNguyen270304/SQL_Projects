@@ -76,6 +76,9 @@ This project explores business data to identify trends, patterns, and actionable
 - Window Functions
 - Business Analysis
 
+<img width="964" height="207" alt="image" src="https://github.com/user-attachments/assets/c603bdf1-45e8-44c2-8c92-78be26446bb9" />
+
+
 ---
 
 # Technologies
